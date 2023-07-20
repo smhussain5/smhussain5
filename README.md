@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1>Hello, my name is Shabab!</h1>
 
-<!--
-**smhussain5/smhussain5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Education:</h2>
+<b>Stony Brook University (2017)</b>
+<ul>
+  <li>BE in Biomedical Engineering (Cellular/Molecular)</li>
+</ul>
+<b>TTUHSC Graduate School of Biomedical Sciences (2019)</b>
+<ul>
+  <li>MS in Graduate Medical Education Sciences</li>
+</ul>
+<b>TTU Rawls College of Business (2020)</b>
+<ul>
+  <li>MBA in Health Organization Management</li>
+</ul>
 
-Here are some ideas to get you started:
+<h2>Relevant Projects:</h2>
+<b>Power BI</b>
+<ul>
+  <li>TBD</li>
+</ul>
+<b>Python</b>
+<ul>
+  <li>TBD</li>
+</ul>
+<b>SQL</b>
+<ul>
+  <li>TBD</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Social Media:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/joshmadakor
+[linkedin]: https://linkedin.com/in/joshmadakor
