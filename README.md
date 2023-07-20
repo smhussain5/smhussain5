@@ -1,4 +1,4 @@
-<h1>Hello, my name is Shabab!👨🏽‍💻</h1>
+<h1>👨🏽‍💻 Hello, my name is Shabab!</h1>
 
 <h2>🤓 Education:</h2>
 <b>Stony Brook University (2017)</b>
