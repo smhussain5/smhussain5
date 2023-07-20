@@ -1,6 +1,6 @@
-<h1>Hello, my name is Shabab!</h1>
+<h1>Hello, my name is Shabab!👨🏽‍💻</h1>
 
-<h2>Education:</h2>
+<h2>🤓 Education:</h2>
 <b>Stony Brook University (2017)</b>
 <ul>
   <li>BE in Biomedical Engineering (Cellular/Molecular)</li>
@@ -14,7 +14,7 @@
   <li>MBA in Health Organization Management</li>
 </ul>
 
-<h2>Relevant Projects:</h2>
+<h2>🖥️ Relevant Projects:</h2>
 <b>Power BI</b>
 <ul>
   <li>TBD</li>
@@ -28,7 +28,7 @@
   <li>TBD</li>
 </ul>
 
-<h2>Social Media:</h2>
+<h2>💬 Social Media:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
