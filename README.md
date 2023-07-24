@@ -18,6 +18,7 @@
 <b>CSS/HTML</b>
 <ul>
   <li>TBD</li>
+</ul>
 <b>Power BI</b>
 <ul>
   <li>TBD</li>
