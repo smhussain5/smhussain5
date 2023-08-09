@@ -15,9 +15,9 @@
 </ul>
 
 <h2>🖥️ Relevant Projects:</h2>
-<b>CSS/HTML</b>
+<b>CSS/HTML/JS</b>
 <ul>
-  <li>TBD</li>
+  <li><a href="https://github.com/smhussain5/CODEWARS">CODEWARS</a></li>
 </ul>
 <b>Power BI</b>
 <ul>
