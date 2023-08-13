@@ -19,7 +19,7 @@
 <ul>
   <li><a href="https://github.com/smhussain5/CODEWARS">CODEWARS</a></li>
 </ul>
-<b>Power BI</b>
+<!--- <b>Power BI</b>
 <ul>
   <li>TBD</li>
 </ul>
@@ -30,7 +30,7 @@
 <b>SQL</b>
 <ul>
   <li>TBD</li>
-</ul>
+</ul> --->
 
 <h2>💬 Social Media:</h2>
 <a href="https://twitter.com/shussain_5"><img align="left" alt="Shabab Hussain | Twitter" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" /></a>
