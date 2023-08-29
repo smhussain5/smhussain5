@@ -18,6 +18,7 @@
 <b>CSS/HTML/JS</b>
 <ul>
   <li><a href="https://github.com/smhussain5/CODEWARS">CODEWARS</a></li>
+  <li><a href="https://github.com/smhussain5/CODEWARS">QR Code Generator</a></li>
 </ul>
 <!--- <b>Power BI</b>
 <ul>
