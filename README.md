@@ -19,6 +19,7 @@
 <ul>
   <li><a href="https://github.com/smhussain5/CODEWARS">CODEWARS</a></li>
   <li><a href="https://github.com/smhussain5/QR_Code_Generator">QR Code Generator</a></li>
+  <li><a href="https://github.com/smhussain5/Tic_Tac_Toe">Tic Tac Toe</a></li>
 </ul>
 <!--- <b>Power BI</b>
 <ul>
