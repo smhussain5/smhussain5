@@ -1,7 +1,7 @@
 # Hello, my name is Shabab! 👋
 
 <details>
-<summary>📊 Statistics:</summary>
+<summary><h2>📊 Statistics:</h2></summary>
 
 ![smhussain5's Stats](https://github-readme-stats.vercel.app/api?username=smhussain5&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
