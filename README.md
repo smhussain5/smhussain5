@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smhussain5&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
-<summary>🤓 Education:</summary>
+## 🤓 Education:
 <b>Stony Brook University (2017)</b>
 <ul>
   <li>BE in Biomedical Engineering (Cellular/Molecular)</li>
@@ -18,7 +18,7 @@
   <li>MBA in Health Organization Management</li>
 </ul>
 
-<h2>🖥️ Relevant Projects:</h2>
+## 🖥️ Relevant Projects:
 <b>CSS/HTML/JS</b>
 <ul>
   <li><a href="https://github.com/smhussain5/CODEWARS">CODEWARS</a></li>
@@ -38,7 +38,7 @@
   <li>TBD</li>
 </ul> --->
 
-<h2>💬 Social Media:</h2>
+## 💬 Social Media:
 <a href="https://twitter.com/shussain_5"><img align="left" alt="Shabab Hussain | Twitter" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" /></a>
 
 <!--- [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
