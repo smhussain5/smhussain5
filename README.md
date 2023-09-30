@@ -2,6 +2,8 @@
 
 ![smhussain5's Stats](https://github-readme-stats.vercel.app/api?username=smhussain5&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smhussain5&theme=transparent&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 <h2>🤓 Education:</h2>
 <b>Stony Brook University (2017)</b>
 <ul>
