@@ -1,10 +1,13 @@
 # Hello, my name is Shabab! 👋
+
 <details>
-<summary>## 📊 Statistics:</summary>
+## <summary>📊 Statistics:</summary>
 ![smhussain5's Stats](https://github-readme-stats.vercel.app/api?username=smhussain5&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smhussain5&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+
 </details>
+
 ## 🤓 Education:
 <b>Stony Brook University (2017)</b>
 <ul>
