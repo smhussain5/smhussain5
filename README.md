@@ -1,5 +1,5 @@
 <h1>👨🏽‍💻 Hello, my name is Shabab!</h1>
-
+[![Shabab's GitHub stats](https://github-readme-stats.vercel.app/api?username=smhussain5)](https://github.com/smhussain5/github-readme-stats)
 <h2>🤓 Education:</h2>
 <b>Stony Brook University (2017)</b>
 <ul>
