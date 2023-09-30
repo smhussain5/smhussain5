@@ -1,6 +1,6 @@
 ## Hello, my name is Shabab! 👋
 
-![](https://komarev.com/ghpvc/?username=smhussain5&style=flat-square&color=34d399)
+![](https://komarev.com/ghpvc/?username=smhussain5&style=flat-square&color=10b981)
 
 ### Statistics 📊
 
