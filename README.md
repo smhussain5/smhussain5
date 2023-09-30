@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smhussain5&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
-<h2>🤓 Education:</h2>
+<summary><h2>🤓 Education:</h2></summary>
 <b>Stony Brook University (2017)</b>
 <ul>
   <li>BE in Biomedical Engineering (Cellular/Molecular)</li>
