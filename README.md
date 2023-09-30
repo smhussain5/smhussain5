@@ -1,4 +1,4 @@
-<h1>Hello, my name is Shabab! 👨🏽‍💻</h1>
+# Hello, my name is Shabab! 👋
 
 ![smhussain5's Stats](https://github-readme-stats.vercel.app/api?username=smhussain5&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
