@@ -39,7 +39,7 @@
   <li>TBD</li>
 </ul> --->
 
-### Social Media 💬</h3></summary>
+### Social Media 💬
 <a href="https://twitter.com/shussain_5"><img align="left" alt="Shabab Hussain | Twitter" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" /></a>
 
 <!--- [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
