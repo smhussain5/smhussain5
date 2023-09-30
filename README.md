@@ -8,7 +8,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smhussain5&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
 </details>
-
 <details>
 <summary><h2>Education 🤓</h2></summary>
 <b>Stony Brook University (2017)</b>
@@ -24,7 +23,6 @@
   <li>MBA in Health Organization Management</li>
 </ul>
 </details>
-
 <details>
 <summary><h2>Projects 💻</h2></summary>
 <ul>
@@ -45,7 +43,6 @@
   <li>TBD</li>
 </ul> --->
 </details>
-
 <details>
 <summary><h2>Social Media 💬</h2></summary>
 <a href="https://twitter.com/shussain_5"><img align="left" alt="Shabab Hussain | Twitter" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" /></a>
