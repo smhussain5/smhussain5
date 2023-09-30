@@ -1,7 +1,7 @@
 # Hello, my name is Shabab! 👋
 
 <details>
-<summary><h2>📊 Statistics:</h2></summary>
+<summary><h2>Statistics 📊</h2></summary>
 
 ![smhussain5's Stats](https://github-readme-stats.vercel.app/api?username=smhussain5&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
@@ -9,7 +9,8 @@
 
 </details>
 
-## 🤓 Education:
+<details>
+<summary><h2>Education 🤓</h2></summary>
 <b>Stony Brook University (2017)</b>
 <ul>
   <li>BE in Biomedical Engineering (Cellular/Molecular)</li>
@@ -22,9 +23,10 @@
 <ul>
   <li>MBA in Health Organization Management</li>
 </ul>
+</details>
 
-## 🖥️ Relevant Projects:
-<b>CSS/HTML/JS</b>
+<details>
+<summary><h2>Projects 💻</h2></summary>
 <ul>
   <li><a href="https://github.com/smhussain5/CODEWARS">CODEWARS</a></li>
   <li><a href="https://github.com/smhussain5/QR_Code_Generator">QR Code Generator</a></li>
@@ -42,9 +44,12 @@
 <ul>
   <li>TBD</li>
 </ul> --->
+</details>
 
-## 💬 Social Media:
+<details>
+<summary><h2>Social Media 💬</h2></summary>
 <a href="https://twitter.com/shussain_5"><img align="left" alt="Shabab Hussain | Twitter" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" /></a>
 
 <!--- [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://linkedin.com/in/joshmadakor --->
+</details>
