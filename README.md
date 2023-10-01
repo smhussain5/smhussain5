@@ -17,16 +17,17 @@
 ![Static Badge](https://img.shields.io/badge/React-212121?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 ### Education 🤓
-<b>Stony Brook University (2017)</b>
+<ul>
+<li><b>Stony Brook University (2017)</b></li>
 <ul>
   <li>BE in Biomedical Engineering (Cellular/Molecular)</li>
 </ul>
-<b>TTUHSC Graduate School of Biomedical Sciences (2019)</b>
+<li><b>TTUHSC Graduate School of Biomedical Sciences (2019)</b></li>
 <ul>
   <li>MS in Graduate Medical Education Sciences</li>
 </ul>
-<b>TTU Rawls College of Business (2020)</b>
-<ul>
+<li><b>TTU Rawls College of Business (2020)</b>
+<ul></li>
   <li>MBA in Health Organization Management</li>
 </ul>
 
