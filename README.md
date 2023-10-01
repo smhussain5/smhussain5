@@ -3,7 +3,7 @@
 ### Statistics 📊
 
 ![smhussain5's Stats](https://github-readme-stats.vercel.app/api?username=smhussain5&theme=transparent&show_icons=true&hide_border=true&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smhussain5&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smhussain5&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ### Languages/Skills 💻
 ![Static Badge](https://img.shields.io/badge/JavaScript-212121?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
