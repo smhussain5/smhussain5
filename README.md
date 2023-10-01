@@ -16,7 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/Node.js-212121?style=flat-square&logo=nodedotjs&logoColor=%23339933)
 ![Static Badge](https://img.shields.io/badge/React-212121?style=flat-square&logo=react&logoColor=%2361DAFB)
 
-### Education
+### Education 👨‍🎓
 - **TTU Rawls College of Business (2020)**
   - MBA in Health Organization Management
 - **TTUHSC Graduate School of Biomedical Sciences (2019)**
