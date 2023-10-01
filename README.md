@@ -16,27 +16,18 @@
 ![Static Badge](https://img.shields.io/badge/Node.js-212121?style=flat-square&logo=nodedotjs&logoColor=%23339933)
 ![Static Badge](https://img.shields.io/badge/React-212121?style=flat-square&logo=react&logoColor=%2361DAFB)
 
-### Education 🤓
-<ul>
-<li><b>Stony Brook University (2017)</b></li>
-<ul>
-  <li>BE in Biomedical Engineering (Cellular/Molecular)</li>
-</ul>
-<li><b>TTUHSC Graduate School of Biomedical Sciences (2019)</b></li>
-<ul>
-  <li>MS in Graduate Medical Education Sciences</li>
-</ul>
-<li><b>TTU Rawls College of Business (2020)</b></li>
-<ul>
-  <li>MBA in Health Organization Management</li>
-</ul>
+### Education
+- **TTU Rawls College of Business (2020)**
+  - MBA in Health Organization Management
+- **TTUHSC Graduate School of Biomedical Sciences (2019)**
+  - MS in Graduate Medical Education Sciences
+- **Stony Brook University (2017)**
+  - BE in Biomedical Engineering (Cellular/Molecular)</li>
 
 ### Projects ✅
-<ul>
-  <li><a href="https://github.com/smhussain5/CODEWARS">CODEWARS</a></li>
-  <li><a href="https://github.com/smhussain5/QR_Code_Generator">QR Code Generator</a></li>
-  <li><a href="https://github.com/smhussain5/Tic_Tac_Toe">Tic Tac Toe</a></li>
-</ul>
+- <a href="https://github.com/smhussain5/CODEWARS">CODEWARS</a>
+- <a href="https://github.com/smhussain5/QR_Code_Generator">QR Code Generator</a>
+- <a href="https://github.com/smhussain5/Tic_Tac_Toe">Tic Tac Toe</a>
 
 ### Contact 💬
 [![Static Badge](https://img.shields.io/badge/Follow_me_on_X-212121?style=flat-square&logo=x&logoColor=%23FAFAFA)](https://twitter.com/shussain_5)<br>
