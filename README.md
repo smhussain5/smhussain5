@@ -26,8 +26,8 @@
 <ul>
   <li>MS in Graduate Medical Education Sciences</li>
 </ul>
-<li><b>TTU Rawls College of Business (2020)</b>
-<ul></li>
+<li><b>TTU Rawls College of Business (2020)</b></li>
+<ul>
   <li>MBA in Health Organization Management</li>
 </ul>
 
