@@ -28,6 +28,6 @@
 - <a href="https://github.com/smhussain5/Tic_Tac_Toe">Tic Tac Toe</a>
 
 ### Contact 💬
+[![Static Badge](https://img.shields.io/badge/Send%20me%20an%20email-212121?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:shababhussain525@gmail.com?)<br>
 [![Static Badge](https://img.shields.io/badge/Follow_me_on_X-212121?style=flat-square&logo=x&logoColor=%23FAFAFA)](https://twitter.com/shussain_5)<br>
 [![Static Badge](https://img.shields.io/badge/Follow_me_on_GitHub-212121?style=flat-square&logo=github&logoColor=%23FAFAFA)](https://github.com/smhussain5)<br>
-[![Static Badge](https://img.shields.io/badge/Send%20me%20an%20email-212121?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:shababhussain525@gmail.com?)<br>
