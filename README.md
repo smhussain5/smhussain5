@@ -7,7 +7,7 @@
 ![smhussain5's Stats](https://github-readme-stats.vercel.app/api?username=smhussain5&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smhussain5&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
-### Languages/Skills
+### Languages/Skills 💻
 ![Static Badge](https://img.shields.io/badge/JavaScript-212121?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/CSS3-212121?style=flat-square&logo=css3&logoColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/HTML5-212121?style=flat-square&logo=HTML5&logoColor=%23E34F26)
@@ -30,7 +30,7 @@
   <li>MBA in Health Organization Management</li>
 </ul>
 
-### Projects 💻
+### Projects ✅
 <ul>
   <li><a href="https://github.com/smhussain5/CODEWARS">CODEWARS</a></li>
   <li><a href="https://github.com/smhussain5/QR_Code_Generator">QR Code Generator</a></li>
