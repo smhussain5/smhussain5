@@ -13,6 +13,8 @@
 ![Static Badge](https://img.shields.io/badge/Bootstrap-212121?style=flat-square&logo=bootstrap&logoColor=%237952B3)
 ![Static Badge](https://img.shields.io/badge/Node.js-212121?style=flat-square&logo=nodedotjs&logoColor=%23339933)
 ![Static Badge](https://img.shields.io/badge/React-212121?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/Svelte-212121?style=flat-square&logo=svelte&logoColor=%23FF3E00)
+![Static Badge](https://img.shields.io/badge/Golang-212121?style=flat-square&logo=go&logoColor=%2300ADD8)
 
 ## Education <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" />
 - **TTU Rawls College of Business (2020)**
