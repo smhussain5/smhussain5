@@ -2,7 +2,7 @@
 
 ## Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />
 
-![smhussain5's Stats](https://github-readme-stats.vercel.app/api?username=smhussain5&theme=default&show_icons=true&hide_border=false&count_private=true)<br>
+![smhussain5's Stats](https://github-readme-stats.vercel.app/api?username=smhussain5&theme=default&show_icons=true&hide_border=false&count_private=true&rank_icon=github)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smhussain5&layout=compact)<br>
 
 
