@@ -3,6 +3,7 @@
 ## Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />
 
 ![smhussain5's Stats](https://github-readme-stats.vercel.app/api?username=smhussain5&theme=default&show_icons=true&hide_border=false&count_private=true)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smhussain5&theme=default&hide_border=false)](https://git.io/streak-stats)
 
 ## Languages/Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
