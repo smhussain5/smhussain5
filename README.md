@@ -1,4 +1,4 @@
-# Hello world, my name is Shabab! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />
+# Hello world, my name is Shabab! <img alt="SH_Logo.png" src="https://github.com/smhussain5/SH_Logo/blob/master/SH_Logo.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="50">
 
 ## Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />
 
@@ -25,8 +25,10 @@
 - **Stony Brook University (2017)**
   - BE in Biomedical Engineering (Cellular/Molecular)</li>
 
-## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark.webp" alt="Check Mark" width="25" height="25" />
-- <a href="https://github.com/smhussain5/CODEWARS">CODEWARS</a>
+## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Box%20With%20Check.webp" alt="Check Box With Check" width="25" height="25" />
+- <a href="https://github.com/smhussain5/SH_Logo">Personal Logo</a>
+
+## Projects (WIP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
 - <a href="https://github.com/smhussain5/QR_Code_Generator">QR Code Generator</a>
 - <a href="https://github.com/smhussain5/Tic_Tac_Toe">Tic Tac Toe</a>
 
