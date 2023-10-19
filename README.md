@@ -1,10 +1,9 @@
 # Hello world, my name is Shabab! <img alt="SH_Logo.png" src="https://github.com/smhussain5/SH_Logo/blob/master/SH_Logo.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="30">
 
 ## Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />
-
+![Codewars Profile Badge](https://www.codewars.com/users/smhussain5/badges/large)<br>
 ![smhussain5's Stats](https://github-readme-stats.vercel.app/api?username=smhussain5&theme=default&show_icons=true&hide_border=false&count_private=true&rank_icon=github)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smhussain5&layout=compact)<br>
-
 
 ## Languages/Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
 ![Static Badge](https://img.shields.io/badge/JavaScript-212121?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
