@@ -3,7 +3,7 @@
 ## Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />
 ![Codewars Profile Badge](https://www.codewars.com/users/smhussain5/badges/large)<br>
 ![smhussain5's Stats](https://github-readme-stats.vercel.app/api?username=smhussain5&theme=default&show_icons=true&hide_border=false&count_private=true&rank_icon=github)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smhussain5&layout=compact)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smhussain5)<br>
 
 ## Languages/Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
 ![Static Badge](https://img.shields.io/badge/JavaScript-212121?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -25,12 +25,12 @@
   - BE in Biomedical Engineering (Cellular/Molecular)</li>
 
 ## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Box%20With%20Check.webp" alt="Check Box With Check" width="25" height="25" />
-- <a href="https://github.com/smhussain5/SH_Logo">Personal Logo</a>
+<a href="https://github.com/smhussain5/SH_Logo">Personal Logo</a><br>
 
 ## Projects (WIP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
-- <a href="https://github.com/smhussain5/CODEWARS">Codewars</a>
-- <a href="https://github.com/smhussain5/QR_Code_Generator">QR Code Generator</a>
-- <a href="https://github.com/smhussain5/Tic_Tac_Toe">Tic Tac Toe</a>
+<a href="https://github.com/smhussain5/CODEWARS">Codewars</a><br>
+<a href="https://github.com/smhussain5/QR_Code_Generator">QR Code Generator</a><br>
+<a href="https://github.com/smhussain5/Tic_Tac_Toe">Tic Tac Toe</a><br>
 
 ## Contact <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="25" height="25" />
 [![Static Badge](https://img.shields.io/badge/Send%20me%20an%20email-212121?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:shababhussain525@gmail.com?)<br>
