@@ -1,4 +1,4 @@
-# Hello world, my name is Shabab! <img alt="SH_Logo.png" src="https://github.com/smhussain5/SH_Logo/blob/master/SH_Logo.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="50">
+# Hello world, my name is Shabab! <img alt="SH_Logo.png" src="https://github.com/smhussain5/SH_Logo/blob/master/SH_Logo.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="30">
 
 ## Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />
 
@@ -29,6 +29,7 @@
 - <a href="https://github.com/smhussain5/SH_Logo">Personal Logo</a>
 
 ## Projects (WIP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
+- <a href="https://github.com/smhussain5/CODEWARS">Codewars</a>
 - <a href="https://github.com/smhussain5/QR_Code_Generator">QR Code Generator</a>
 - <a href="https://github.com/smhussain5/Tic_Tac_Toe">Tic Tac Toe</a>
 
