@@ -14,7 +14,6 @@
 ![Static Badge](https://img.shields.io/badge/Node.js-212121?style=flat-square&logo=nodedotjs&logoColor=%23339933)
 ![Static Badge](https://img.shields.io/badge/React-212121?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/Svelte-212121?style=flat-square&logo=svelte&logoColor=%23FF3E00)<br>
-<!--![Static Badge](https://img.shields.io/badge/Golang-212121?style=flat-square&logo=go&logoColor=%2300ADD8)-->
 
 ## Education <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" />
 - **TTU Rawls College of Business (2020)**
@@ -34,5 +33,6 @@
 
 ## Contact <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="25" height="25" />
 [![Static Badge](https://img.shields.io/badge/Send%20me%20an%20email-212121?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:shababhussain525@gmail.com?)<br>
-[![Static Badge](https://img.shields.io/badge/Follow_me_on_Twitter-212121?style=flat-square&logo=twitter&logoColor=%231D9BF0)](https://twitter.com/shussain_5)<br>
-[![Static Badge](https://img.shields.io/badge/Follow_me_on_GitHub-212121?style=flat-square&logo=github&logoColor=%23FAFAFA)](https://github.com/smhussain5)<br>
+[![Static Badge](https://img.shields.io/badge/Connect_with_me_on_LinkedIn-212121?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shabab-hussain-597201298/)<br>
+[![Static Badge](https://img.shields.io/badge/Follow_me_on_Twitter-212121?style=flat-square&logo=twitter&logoColor=1D9BF0)](https://twitter.com/shussain_5)<br>
+[![Static Badge](https://img.shields.io/badge/Follow_me_on_GitHub-212121?style=flat-square&logo=github&logoColor=FAFAFA)](https://github.com/smhussain5)<br>
