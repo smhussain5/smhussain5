@@ -28,6 +28,7 @@
 
 ## Projects (WIP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
 <a href="https://github.com/smhussain5/CODEWARS">Codewars</a><br>
+<a href="https://github.com/smhussain5/Udemy_DSA">Udemy Data Structures and Algorithms (DSA)</a><br>
 <a href="https://github.com/smhussain5/QR_Code_Generator">QR Code Generator</a><br>
 <a href="https://github.com/smhussain5/Tic_Tac_Toe">Tic Tac Toe</a><br>
 
