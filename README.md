@@ -25,6 +25,7 @@
 
 ## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Box%20With%20Check.webp" alt="Check Box With Check" width="25" height="25" />
 <a href="https://github.com/smhussain5/SH_Logo">Personal Logo</a><br>
+<a href="https://github.com/smhussain5/BB100-Scraper">Billboard Hot 100 Web Scraper</a><br>
 
 ## Projects (WIP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
 <a href="https://github.com/smhussain5/CODEWARS">Codewars</a><br>
