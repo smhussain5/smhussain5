@@ -13,7 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/Bootstrap-212121?style=flat-square&logo=bootstrap&logoColor=%237952B3)
 ![Static Badge](https://img.shields.io/badge/Node.js-212121?style=flat-square&logo=nodedotjs&logoColor=%23339933)
 ![Static Badge](https://img.shields.io/badge/React-212121?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Static Badge](https://img.shields.io/badge/Svelte-212121?style=flat-square&logo=svelte&logoColor=%23FF3E00)<br>
+![Static Badge](https://img.shields.io/badge/Python-212121?style=flat-square&logo=python&logoColor=%233776AB)<br>
 
 ## Education <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" />
 - **TTU Rawls College of Business (2020)**
@@ -24,9 +24,11 @@
   - BE in Biomedical Engineering (Cellular/Molecular)</li>
 
 ## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Box%20With%20Check.webp" alt="Check Box With Check" width="25" height="25" />
-<a href="https://github.com/smhussain5/BB100-Scraper">Billboard Hot 100 Web Scraper</a><br>
 <a href="https://github.com/smhussain5/DALLE3-Generator">DALL·E 3 Generator</a><br>
-<a href="https://github.com/smhussain5/RPS-Python">Rock Paper Scissors Python</a><br>
+<a href="https://github.com/smhussain5/BB100-Scraper">Billboard Hot 100 Web Scraper</a><br>
+<a href="https://github.com/smhussain5/Loan-Python">Loan Repayment</a><br>
+<a href="https://github.com/smhussain5/RPS-Python">Rock Paper Scissors</a><br>
+
 ## Projects (WIP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
 <a href="https://github.com/smhussain5/CODEWARS">Codewars</a><br>
 <a href="https://github.com/smhussain5/Udemy_DSA">Udemy Data Structures and Algorithms (DSA)</a><br>
