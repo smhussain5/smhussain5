@@ -24,11 +24,12 @@
   - BE in Biomedical Engineering (Cellular/Molecular)</li>
 
 ## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Box%20With%20Check.webp" alt="Check Box With Check" width="25" height="25" />
-<a href="https://github.com/smhussain5/DALLE3-Generator">DALL·E 3 Generator</a><br>
 <a href="https://github.com/smhussain5/BB100-Scraper">Billboard Hot 100 Web Scraper</a><br>
+<a href="https://github.com/smhussain5/DALLE3-Generator">DALL·E 3 Generator</a><br>
+<a href="https://github.com/smhussain5/ATM-OOP">Automatic Teller Machine (ATM)</a><br>
+<a href="https://github.com/smhussain5/Translator-Python">Language Translator</a><br>
 <a href="https://github.com/smhussain5/Loan-Python">Loan Repayment</a><br>
 <a href="https://github.com/smhussain5/RPS-Python">Rock Paper Scissors</a><br>
-<a href="https://github.com/smhussain5/Translator-Python">Language Translator</a><br>
 
 ## Projects (WIP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
 <a href="https://github.com/smhussain5/CODEWARS">Codewars</a><br>
