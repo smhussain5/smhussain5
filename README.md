@@ -1,4 +1,4 @@
-# Hello world, my name is Shabab! <img alt="SH_Logo.png" src="https://github.com/smhussain5/SH_Logo/blob/master/SH_Logo.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="30">
+# Hello world, my name is Shabab! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Bar Chart" width="25" height="25" />
 
 ## Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />
 [![Codewars Profile Badge](https://www.codewars.com/users/smhussain5/badges/large)](https://www.codewars.com/users/smhussain5)<br>
@@ -28,6 +28,7 @@
 <a href="https://github.com/smhussain5/BB100-Scraper">Billboard Hot 100 Web Scraper</a><br>
 <a href="https://github.com/smhussain5/Loan-Python">Loan Repayment</a><br>
 <a href="https://github.com/smhussain5/RPS-Python">Rock Paper Scissors</a><br>
+<a href="https://github.com/smhussain5/Translator-Python">Language Translator</a><br>
 
 ## Projects (WIP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
 <a href="https://github.com/smhussain5/CODEWARS">Codewars</a><br>
