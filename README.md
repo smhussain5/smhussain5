@@ -32,6 +32,7 @@
 <a href="https://github.com/smhussain5/Flask-SocketIO-Chat-Python">Flasky Chat</a><br>
 <a href="https://github.com/smhussain5/Translator-Python">Language Translator</a><br>
 <a href="https://github.com/smhussain5/Loan-Python">Loan Repayment</a><br>
+<a href="https://github.com/smhussain5/Politico-NLP-Python">Politico Natural Language Processing (NLP)</a><br>
 <a href="https://github.com/smhussain5/RPS-Python">Rock Paper Scissors</a><br>
 
 ## Projects (WIP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
