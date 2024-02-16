@@ -5,17 +5,20 @@
 ![smhussain5's Stats](https://github-readme-stats.vercel.app/api?username=smhussain5&theme=default&show_icons=true&hide_border=false&count_private=true&rank_icon=github)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smhussain5&hide_progress=true)<br>
 
-## Languages/Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
+## Languages <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
+![Static Badge](https://img.shields.io/badge/JavaScript-212121?style=flat-square&logo=javascript&logoColor=%23F7DF1E)<br>
+![Static Badge](https://img.shields.io/badge/Python-212121?style=flat-square&logo=python&logoColor=%233776AB)<br>
+![Static Badge](https://img.shields.io/badge/Rust-212121?style=flat-square&logo=rust&logoColor=%23F46623)<br>
+
+
+## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
 ![Static Badge](https://img.shields.io/badge/Bootstrap-212121?style=flat-square&logo=bootstrap&logoColor=%237952B3)<br>
 ![Static Badge](https://img.shields.io/badge/CSS3-212121?style=flat-square&logo=css3&logoColor=%231572B6)<br>
 ![Static Badge](https://img.shields.io/badge/Django-212121?style=flat-square&logo=django&logoColor=%2344B78B)<br>
 ![Static Badge](https://img.shields.io/badge/Flask-212121?style=flat-square&logo=flask&logoColor=%23FFFFFF)<br>
 ![Static Badge](https://img.shields.io/badge/HTML5-212121?style=flat-square&logo=HTML5&logoColor=%23E34F26)<br>
-![Static Badge](https://img.shields.io/badge/JavaScript-212121?style=flat-square&logo=javascript&logoColor=%23F7DF1E)<br>
 ![Static Badge](https://img.shields.io/badge/Node.js-212121?style=flat-square&logo=nodedotjs&logoColor=%23339933)<br>
-![Static Badge](https://img.shields.io/badge/Python-212121?style=flat-square&logo=python&logoColor=%233776AB)<br>
 ![Static Badge](https://img.shields.io/badge/React-212121?style=flat-square&logo=react&logoColor=%2361DAFB)<br>
-![Static Badge](https://img.shields.io/badge/Rust-212121?style=flat-square&logo=rust&logoColor=%23F46623)<br>
 ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-212121?style=flat-square&logo=tailwindcss&logoColor=%2306B6D4)<br>
 
 ## Education <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" />
@@ -27,8 +30,10 @@
   - BE in Biomedical Engineering (Cellular/Molecular)</li>
 
 ## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Box%20With%20Check.webp" alt="Check Box With Check" width="25" height="25" />
+### JavaScript
 <a href="https://github.com/smhussain5/BB100-Scraper">Billboard Hot 100 Web Scraper</a><br>
 <a href="https://github.com/smhussain5/DALLE3-Generator">DALL·E 3 Generator</a><br>
+### Python
 <a href="https://github.com/smhussain5/ATM-OOP">Automatic Teller Machine (ATM)</a><br>
 <a href="https://github.com/smhussain5/HCP-Django-Python">DocFinder</a><br>
 <a href="https://github.com/smhussain5/Flask-SocketIO-Chat-Python">Flasky Chat</a><br>
@@ -37,6 +42,8 @@
 <a href="https://github.com/smhussain5/Loan-Python">Loan Repayment</a><br>
 <a href="https://github.com/smhussain5/Politico-NLP-Python">Politico Natural Language Processing (NLP)</a><br>
 <a href="https://github.com/smhussain5/RPS-Python">Rock Paper Scissors</a><br>
+### Rust
+(COMING SOON)
 
 ## Projects (WIP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
 <a href="https://github.com/smhussain5/CODEWARS">Codewars</a><br>
