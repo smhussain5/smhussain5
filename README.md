@@ -15,6 +15,7 @@
 ![Static Badge](https://img.shields.io/badge/Node.js-212121?style=flat-square&logo=nodedotjs&logoColor=%23339933)<br>
 ![Static Badge](https://img.shields.io/badge/Python-212121?style=flat-square&logo=python&logoColor=%233776AB)<br>
 ![Static Badge](https://img.shields.io/badge/React-212121?style=flat-square&logo=react&logoColor=%2361DAFB)<br>
+![Static Badge](https://img.shields.io/badge/Rust-212121?style=flat-square&logo=rust&logoColor=%23F46623)<br>
 ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-212121?style=flat-square&logo=tailwindcss&logoColor=%2306B6D4)<br>
 
 ## Education <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" />
