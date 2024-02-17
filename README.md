@@ -43,7 +43,7 @@
 <a href="https://github.com/smhussain5/Politico-NLP-Python">Politico Natural Language Processing (NLP)</a><br>
 <a href="https://github.com/smhussain5/RPS-Python">Rock Paper Scissors</a><br>
 ### Rust
-(COMING SOON)
+<a href="https://github.com/smhussain5/Rust-Guess-Number">Guess The Number</a><br>
 
 ## Projects (WIP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
 <a href="https://github.com/smhussain5/CODEWARS">Codewars</a><br>
