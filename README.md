@@ -16,7 +16,9 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=%23FFF)<br>
 ![Static Badge](https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=django&logoColor=%23FFF)<br>
 ![Static Badge](https://img.shields.io/badge/Flask-212121?style=for-the-badge&logo=flask&logoColor=%23FFF)<br>
+![Static Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=%23FFF)<br>
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=%23FFF)<br>
+![Static Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=%23FFF)<br>
 ![Static Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=%23FFF)<br>
 ![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=%23000)<br>
 ![Static Badge](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=%23FFF)<br>
