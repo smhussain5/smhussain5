@@ -10,7 +10,6 @@
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%23FFF)<br>
 ![Static Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=%23FFF)<br>
 
-
 ## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
 ![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=%23FFF)<br>
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=%23FFF)<br>
@@ -41,6 +40,7 @@
 <a href="https://github.com/smhussain5/ATM-OOP">Automatic Teller Machine (ATM)</a><br>
 <a href="https://github.com/smhussain5/HCP-Django-Python">DocFinder</a><br>
 <a href="https://github.com/smhussain5/Flask-SocketIO-Chat-Python">Flasky Chat</a><br>
+<a href="https://github.com/smhussain5/Selenium-EDM-Python">Future House Music Web Scraper</a><br>
 <a href="https://github.com/smhussain5/ICD10-DFR-Python">ICD-10 API</a><br>
 <a href="https://github.com/smhussain5/Translator-Python">Language Translator</a><br>
 <a href="https://github.com/smhussain5/Loan-Python">Loan Repayment</a><br>
