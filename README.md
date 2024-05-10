@@ -50,6 +50,9 @@
 <a href="https://github.com/smhussain5/Go-Magic-8-Ball">Magic 8 Ball</a><br>
 ### ![Static Badge](https://img.shields.io/badge/Rust-F46623?style=for-the-badge&logo=rust&logoColor=%23FFF)
 <a href="https://github.com/smhussain5/Rust-Guess-Number">Guess The Number</a><br>
+### ![Static Badge](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=%23FFF)
+<a href="https://github.com/smhussain5/Guess-Number-App">Guess The Number</a><br>
+<a href="https://github.com/smhussain5/RPS-App">Rock Paper Scissors</a><br>
 
 ## Projects (WIP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
 <a href="https://github.com/smhussain5/CODEWARS">Codewars</a><br>
