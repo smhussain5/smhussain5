@@ -11,17 +11,20 @@
 ![Static Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=%23FFF)<br>
 
 ## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
-![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=%23FFF)<br>
-![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=%23FFF)<br>
-![Static Badge](https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=django&logoColor=%23FFF)<br>
-![Static Badge](https://img.shields.io/badge/Flask-212121?style=for-the-badge&logo=flask&logoColor=%23FFF)<br>
-![Static Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=%23FFF)<br>
-![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=%23FFF)<br>
-![Static Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=%23FFF)<br>
-![Static Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=%23FFF)<br>
-![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=%23000)<br>
-![Static Badge](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=%23FFF)<br>
-![Static Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23FFF)<br>
+![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=django&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=%23000)
+![Static Badge](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23FFF)
 
 <!-- ## Education <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" />
 - **TTU Rawls College of Business (2020)**
@@ -61,7 +64,7 @@
 <a href="https://github.com/smhussain5/Tic_Tac_Toe">Tic Tac Toe</a><br>
 
 ## Contact <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="25" height="25" />
-[![Static Badge](https://img.shields.io/badge/Send%20me%20an%20email-212121?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:shababhussain525@gmail.com?)<br>
-[![Static Badge](https://img.shields.io/badge/Connect_with_me_on_LinkedIn-212121?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shabab-h)<br>
-[![Static Badge](https://img.shields.io/badge/Follow_me_on_Twitter-212121?style=flat-square&logo=twitter&logoColor=1D9BF0)](https://twitter.com/shussain_5)<br>
-[![Static Badge](https://img.shields.io/badge/Follow_me_on_GitHub-212121?style=flat-square&logo=github&logoColor=FAFAFA)](https://github.com/smhussain5)<br>
+[![Static Badge](https://img.shields.io/badge/Send%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:shababhussain525@gmail.com?)
+[![Static Badge](https://img.shields.io/badge/Connect_with_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/shabab-h)
+[![Static Badge](https://img.shields.io/badge/Follow_me_on_Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=FFF)](https://twitter.com/shussain_5)
+[![Static Badge](https://img.shields.io/badge/Follow_me_on_GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/smhussain5)
