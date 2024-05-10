@@ -33,10 +33,10 @@
 -->
 
 ## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Box%20With%20Check.webp" alt="Check Box With Check" width="25" height="25" />
-### JavaScript
+### ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23000)
 <a href="https://github.com/smhussain5/BB100-Scraper">Billboard Hot 100 Web Scraper</a><br>
 <a href="https://github.com/smhussain5/DALLE3-Generator">DALL·E 3 Generator</a><br>
-### Python
+### ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%23FFF)
 <a href="https://github.com/smhussain5/ATM-OOP">Automatic Teller Machine (ATM)</a><br>
 <a href="https://github.com/smhussain5/HCP-Django-Python">DocFinder</a><br>
 <a href="https://github.com/smhussain5/Flask-SocketIO-Chat-Python">Flasky Chat</a><br>
@@ -46,7 +46,7 @@
 <a href="https://github.com/smhussain5/Loan-Python">Loan Repayment</a><br>
 <a href="https://github.com/smhussain5/Politico-NLP-Python">Politico Natural Language Processing (NLP)</a><br>
 <a href="https://github.com/smhussain5/RPS-Python">Rock Paper Scissors</a><br>
-### Go
+### ![Static Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=%23FFF)
 <a href="https://github.com/smhussain5/Go-Magic-8-Ball">Magic 8 Ball</a><br>
 ### Rust
 <a href="https://github.com/smhussain5/Rust-Guess-Number">Guess The Number</a><br>
