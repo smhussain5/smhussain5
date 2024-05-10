@@ -48,7 +48,7 @@
 <a href="https://github.com/smhussain5/RPS-Python">Rock Paper Scissors</a><br>
 ### ![Static Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=%23FFF)
 <a href="https://github.com/smhussain5/Go-Magic-8-Ball">Magic 8 Ball</a><br>
-### ![Static Badge](https://img.shields.io/badge/Rust-A72145?style=for-the-badge&logo=rust&logoColor=%23FFF)
+### ![Static Badge](https://img.shields.io/badge/Rust-F46623?style=for-the-badge&logo=rust&logoColor=%23FFF)
 <a href="https://github.com/smhussain5/Rust-Guess-Number">Guess The Number</a><br>
 
 ## Projects (WIP) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
