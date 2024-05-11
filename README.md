@@ -18,6 +18,7 @@
 ![Static Badge](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=%23FFF)
 ![Static Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=%23FFF)
 ![Static Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=%23FFF)
 ![Static Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=%23FFF)
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=%23FFF)
 ![Static Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=%23FFF)
