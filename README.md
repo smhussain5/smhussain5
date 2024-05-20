@@ -38,7 +38,7 @@
 -->
 
 ## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Box%20With%20Check.webp" alt="Check Box With Check" width="25" height="25" />
-### ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23000)
+### ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23000) ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=%23FFF)
 <a href="https://github.com/smhussain5/BB100-Scraper">Billboard Hot 100 Web Scraper</a><br>
 <a href="https://github.com/smhussain5/DALLE3-Generator">DALL·E 3 Generator</a><br>
 ### ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%23FFF)
