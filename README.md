@@ -65,8 +65,10 @@
 <a href="https://github.com/smhussain5/QR_Code_Generator">QR Code Generator</a><br>
 <a href="https://github.com/smhussain5/Tic_Tac_Toe">Tic Tac Toe</a><br>
 
+<!--
 ## Contact <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="25" height="25" />
 [![Static Badge](https://img.shields.io/badge/Send%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:shababhussain525@gmail.com?)
 [![Static Badge](https://img.shields.io/badge/Connect_with_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/shabab-h)
 [![Static Badge](https://img.shields.io/badge/Follow_me_on_Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=FFF)](https://twitter.com/shussain_5)
 [![Static Badge](https://img.shields.io/badge/Follow_me_on_GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/smhussain5)
+-->
