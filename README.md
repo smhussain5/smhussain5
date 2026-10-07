@@ -28,14 +28,13 @@
 ![Static Badge](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=%23FFF)
 ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23FFF)
 
-<!-- ## Education <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" />
+## Education <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" />
 - **TTU Rawls College of Business (2020)**
   - MBA in Health Organization Management
 - **TTUHSC Graduate School of Biomedical Sciences (2019)**
   - MS in Graduate Medical Education Sciences
 - **Stony Brook University (2017)**
   - BE in Biomedical Engineering (Cellular/Molecular)</li>
--->
 
 ## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Box%20With%20Check.webp" alt="Check Box With Check" width="25" height="25" />
 ### ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23000) ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=%23FFF)
@@ -65,10 +64,7 @@
 <a href="https://github.com/smhussain5/QR_Code_Generator">QR Code Generator</a><br>
 <a href="https://github.com/smhussain5/Tic_Tac_Toe">Tic Tac Toe</a><br>
 
-<!--
 ## Contact <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="25" height="25" />
-[![Static Badge](https://img.shields.io/badge/Send%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:shababhussain525@gmail.com?)
+[![Static Badge](https://img.shields.io/badge/Send%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:smhussain5@proton.me)
 [![Static Badge](https://img.shields.io/badge/Connect_with_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/shabab-h)
-[![Static Badge](https://img.shields.io/badge/Follow_me_on_Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=FFF)](https://twitter.com/shussain_5)
 [![Static Badge](https://img.shields.io/badge/Follow_me_on_GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/smhussain5)
--->
